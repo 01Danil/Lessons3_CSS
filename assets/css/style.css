@@ -1,3 +1,13 @@
 .main-heading {
-	color:blueviolet;
+	color:purple;
+	background-color: yellow;
+	font-size: 28px;
+}
+.heading-art {
+	color: yellow;
+	background-color: purple;
+}
+p {
+	font-size: 24px;
+	line-height: 24px;
 }
